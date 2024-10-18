@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Water
+
+  Created by John Haverkate on 14/10/2024.
+  
+*/
+"WaterReminder v?" = "WaterReminder v1.3";
+"door John Haverkate" = "©2024 John Haverkate";
+"Totale waterinname vandaag:" = "Quantité totale d'eau aujourd'hui:";
+"Voeg waterinname toe" = "Ajouter une prise d'eau";
+"Waterinname" = "Prise d'eau";
+"Voer het aantal ml in:" = "Entrez la quantité en ml:";
+"Toevoegen" = "Ajouter";
+"Annuleren" = "Annuler";
+"Reset" = "Réinitialiser";
+"Interval ingesteld op %d minuten" = "Intervalle réglé à %d minutes";
+"%d minuten" = "%d minutes";
+"Zet herinnering interval:" = "Définir l'intervalle de rappel:";
+"Selecteer interval" = "Sélectionner l'intervalle";
+"Niet-storen tijd instellen:" = "Définir la période Ne pas déranger:";
+"Start" = "Début";
+"Einde" = "Fin";
+"Toestemming voor meldingen verleend." = "Autorisation de notifications accordée.";
+"Water Reminder" = "Rappel d'eau";
+"Vergeet niet water te drinken!" = "N'oubliez pas de boire de l'eau!";
+"Fout bij het toevoegen van de melding: %@" = "Erreur lors de l'ajout de la notification: %@";

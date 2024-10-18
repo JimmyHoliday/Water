@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Water_Reminder.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
